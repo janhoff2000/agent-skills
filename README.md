@@ -10,7 +10,10 @@ Each directory represents a specific skill and contains a `SKILL.md` file with d
 - **code-refactoring-refactor-clean**: Best practices for clean code, SOLID principles, and refactoring.
 - **doc-coauthering**: Structured workflows for co-authoring technical documentation and proposals.
 - **frontend-design**: High-quality UI/UX design and frontend implementation standards.
+- **launch-strategy**: Planning product launches, feature announcements, and go-to-market execution.
+- **pricing-strategy**: SaaS pricing decisions, packaging, and monetization strategies.
 - **python-pro**: Modern Python 12+ patterns, async programming, and performance.
 - **react-best-practices**: Next.js and React performance optimization guidelines.
+- **social-content**: Creating, scheduling, and optimizing engaging social media content.
 - **swift-concurrency**: Expert guidance on Swift Concurrency patterns and implementation.
 - **swiftui-expert-skill**: Advanced SwiftUI development, state management, and modern iOS APIs.
