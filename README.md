@@ -12,4 +12,5 @@ Each directory represents a specific skill and contains a `SKILL.md` file with d
 - **frontend-design**: High-quality UI/UX design and frontend implementation standards.
 - **python-pro**: Modern Python 12+ patterns, async programming, and performance.
 - **react-best-practices**: Next.js and React performance optimization guidelines.
+- **swift-concurrency**: Expert guidance on Swift Concurrency patterns and implementation.
 - **swiftui-expert-skill**: Advanced SwiftUI development, state management, and modern iOS APIs.
